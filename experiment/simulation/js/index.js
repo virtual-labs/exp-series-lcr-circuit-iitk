@@ -1,4 +1,3 @@
-### This folder contains all the js files used in the simulation.
 let resistanc = 0;
 let volt = 0;
 let capacitor = 0;
