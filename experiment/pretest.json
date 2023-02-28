@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "In a series RLC, circuit R=30 ohm, L=15 mH, C=51 μF. If the frequency and voltage are 60 Hz and 12 V. What is the current in the circuit",
+      "question": "1.In a series RLC, circuit R=30 ohm, L=15 mH, C=51 μF. If the frequency and voltage are 60 Hz and 12 V. What is the current in the circuit",
       "answers": {
         "a": "217 mA",
         "b": "250 mA 2",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": " In a series RLC, circuit XL= 7.85 ohm and resistance R = 25 ohm. What is the impedance in resonance condition?",
+      "question": "2.In a series RLC, circuit XL= 7.85 ohm and resistance R = 25 ohm. What is the impedance in resonance condition?",
       "answers": {
         "a": "25 ohm",
         "b": "5 ohm",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "In a series RLC, circuit XL = 25.12 ohm, XC = 398.09 ohm and resistance R = 4 ohm respectively,the impedance will be",
+      "question": "3.In a series RLC, circuit XL = 25.12 ohm, XC = 398.09 ohm and resistance R = 4 ohm respectively,the impedance will be",
       "answers": {
         "a": "325 ohm",
         "b": "372.99 ohm",
