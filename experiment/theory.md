@@ -1,4 +1,3 @@
-<h2> Theory:</h2> <br>
 <p>(Series L-C-R) When the resistor R, inductor L and
 capacitor C are connected in series with a source of emf E , the circuit is called as the
 series resonant or series tuned circuit ( figure-1). This is an acceptor circuit, that means it
