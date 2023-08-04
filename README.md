@@ -15,7 +15,7 @@ connected with external supply voltage
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College Banda
 <b> Email id|     <b> ashutosh.tiwari@recbanda.ac.in  
-<b> Department |  Mechanical Engineering
+<b> Department | Applied Science and Humanities
 
 ### Contributers 
 
