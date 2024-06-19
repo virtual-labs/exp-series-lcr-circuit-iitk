@@ -51,6 +51,92 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
+    },
+        {
+      "question": "4. What is the circuit called when a resistor R, inductor L, and capacitor C are connected in series with a source of emf E?",
+      "answers": {
+        "a": "Parallel resonant circuit",
+        "b": "Series resonant circuit",
+        "c": " Tuned resonant circuit",
+        "d": "Acceptor circuit"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+           {
+      "question": "5.  At what frequency does the series resonant circuit allow maximum current to flow through it?",
+      "answers": {
+        "a": "At all frequencies",
+        "b": " At low frequencies",
+        "c": "At high frequencies",
+        "d": "At a particular resonant frequency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+    ,
+           {
+      "question": "6. What is the phase relationship between voltage and current across the resistor in the series resonant circuit?",
+      "answers": {
+        "a": "In-phase",
+        "b": "Out of phase by 90°",
+        "c": "Out of phase by 180°",
+        "d": "Current leads voltage by 90°"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+           {
+      "question": "7. What phenomenon occurs when the voltage and current in the series resonant circuit are in phase, behaving as a pure resistor?",
+      "answers": {
+        "a": "Resonance",
+        "b": "Selectivity",
+        "c": "Impedance",
+        "d": "Reactance"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+           {
+      "question": "8. What is the frequency difference between the half power points used to measure selectivity in the series resonant circuit?",
+      "answers": {
+        "a": "Resonant frequency",
+        "b": "Bandwidth",
+        "c": "Impedance frequency",
+        "d": "Reactance frequency"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
