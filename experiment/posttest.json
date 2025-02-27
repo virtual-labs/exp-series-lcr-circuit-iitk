@@ -10,10 +10,10 @@
         "d": "None of these."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -21,16 +21,16 @@
     {
       "question": "2.What is the impedance of the series LCR circuit?",
       "answers": {
-        "a": "Z=√ R^2+(XC+XL)^2 ",
-        "b": " Z=√ R^2+(XC-XL)^2 ",
-        "c": "Z=√ R^2+(XC/XL)^2",
-        "d": "Z=√ R^2-(XC+XL)^2"
+        "a": "Z=√ R²+(XC+XL)²",
+        "b": "Z = √(R² + (XL - XC)²)",
+        "c": "Z=√ R²+(XC/XL)²",
+        "d": "Z=√ R²-(XC+XL)²"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Ohms"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
