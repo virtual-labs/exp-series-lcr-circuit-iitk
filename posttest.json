@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.What is the resonance condition for the series LCR circuit?",
+      "answers": {
+        "a": "The capacitive and inductive reactances are equal and 180 degrees out of phase at resonance.",
+        "b": "The capacitive and inductive reactances are not equal and 180 degrees out of phase at resonance",
+        "c": "The capacitive and inductive reactances are equal and 90 degrees out of phase at resonance.",
+        "d": "None of these."
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.What is the impedance of the series LCR circuit?",
+      "answers": {
+        "a": "Z=√ R²+(XC+XL)²",
+        "b": "Z = √(R² + (XL - XC)²)",
+        "c": "Z=√ R²+(XC/XL)²",
+        "d": "Z=√ R²-(XC+XL)²"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+{
+      "question": "3.What is the unit of impedence?",
+      "answers": {
+        "a": "V ",
+        "b": " mA ",
+        "c": "dimensionless",
+        "d": "Ohms"
+      },
+      "explanations": {
+        "a": "Explanation",
+        "b": "Explanation",
+        "c": "Explanation",
+        "d": "Explanation"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
